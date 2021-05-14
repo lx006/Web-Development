@@ -1,0 +1,19 @@
+body {
+    background-color: #09A7A1;
+  }
+  header {
+    background-color: black;
+    color: white;
+    padding: 0.25em;
+  }
+  h2 {
+    color: black;
+  }
+  button {
+    background-color: #FF790E;
+  }
+  footer {
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+  }
